@@ -11,4 +11,4 @@
 ### Screen shot
 ![hihi hông cóa ảnh](https://github.com/ThaoSe141101/math-util/blob/main/images/math-util-intro.png)
 
-© 2021 Thu.Thao| Ahihi
+© 2021 Thu.Thao| always-smile-T
